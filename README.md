@@ -94,7 +94,3 @@ The system includes error handling and data validation throughout the input proc
 ## Author
 
 *   Name: Amir Rasmi Al-Rashayda
-*   ID: 1222596
-*   Section: 1
-
-This project was developed for the ENCS3130 Linux Laboratory course at Birzeit University.
